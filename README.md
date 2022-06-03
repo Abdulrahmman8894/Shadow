@@ -1,9 +1,4 @@
 
-
-## 📊 احصائيات
-
-[![CodeFactor](https://www.codefactor.io/repository/github/levina-lab/video-stream/badge)](https://www.codefactor.io/repository/https://github.com/Abdulrahmman8894/Shadow)
-
 ## 🧪 Get `SESSION_NAME` from below:
 
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@levinalab/StringSession#main.py) ``Pyrogram``
