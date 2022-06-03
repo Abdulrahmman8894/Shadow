@@ -2,7 +2,7 @@
 
 ## 📊 احصائيات
 
-[![CodeFactor](https://www.codefactor.io/repository/github/levina-lab/video-stream/badge)](https://www.codefactor.io/repository/github/levina-lab/video-stream)
+[![CodeFactor](https://www.codefactor.io/repository/github/levina-lab/video-stream/badge)](https://www.codefactor.io/repository/https://github.com/Abdulrahmman8894/Shadow)
 
 ## 🧪 Get `SESSION_NAME` from below:
 
