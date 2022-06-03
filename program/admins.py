@@ -21,7 +21,7 @@ from pyrogram.types import (
 )
 
 
-@Client.on_message(command(["reload", f"تحديث", "حديث"]) & other_filters)
+@Client.on_message(command(["reload", f"تحديث", "حدث"]) & other_filters)
 @authorized_users_only
 async def update_admin(client, message):
     global admins
