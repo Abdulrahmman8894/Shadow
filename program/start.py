@@ -73,7 +73,7 @@ async def start_(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "• نـصـب بـوتك مـن هـنا •", url="https://t.me/FA9SH/2270",
+                        "• نـصـب بـوتك مـن هـنا •", url="https://t.me/ZEYADZAGLOL",
                     )
                 ],
                 [InlineKeyboardButton("", callback_data="cbhowtouse")],
@@ -103,26 +103,26 @@ async def start_(client: Client, message: Message):
 @Client.on_message(command(["برمج السورس", f"ؤمن", f"ورس", f"لسورس", f"ادو", f"اضو"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/18b88af791e36bf3c4259.jpg",
-        caption=f"""ᴘʀᴏɢʀᴀᴍᴍᴇʀ [ѕʜᴀᴅᴏᴡ](https://t.me/S_V_I_P) 𖡼\nᴛᴏ ᴄᴏᴍᴍụɴɪᴄᴀᴛᴇ ᴛᴏɢᴇᴛʜᴇʀ 𖡼\nғᴏʟʟᴏᴡ ᴛʜᴇ ʙụᴛᴛᴏɴѕ ʟᴏᴡᴇʀ 𖡼""",
+        photo=f"https://telegra.ph/file/d665b0e88940c57bc660c.jpg",
+        caption=f"""ᴘʀᴏɢʀᴀᴍᴍᴇʀ [ᴢᴇᴢᴏ](https://t.me/ZEYADZAGLOL) 𖡼\nᴛᴏ ᴄᴏᴍᴍụɴɪᴄᴀᴛᴇ ᴛᴏɢᴇᴛʜᴇʀ 𖡼\nғᴏʟʟᴏᴡ ᴛʜᴇ ʙụᴛᴛᴏɴѕ ʟᴏᴡᴇʀ 𖡼""",
         reply_markup=InlineKeyboardMarkup(
          [
             [
-                InlineKeyboardButton("𓌹●↯‌𝑫𝑨𝑫 𝑺𝑯𝑨𝑫𝑶𝑾↯●𓌺", url=f"https://t.me/KB_Shadow"),
+                InlineKeyboardButton("⌯ 𓆩✘𝒁𝑬𝒁𝑶 𖤐 ™𝑲𝑨𝑹𝑴𝑶𝒁✘𓆪 ⌯", url=f"https://t.me/ZEYADZAGLOL"),
             ],
             [
                 InlineKeyboardButton(
-                    "𝑬𝑹𝑹𝑶𝑹🖤", url=f"https://t.me/FA9SH"
+                    "اذكار المسلم🖤", url=f"https://t.me/AzkarMusIim1"
                 ),
             ],
             [
-                InlineKeyboardButton("♡اضف البوت الى مجموعتك♡", url=f"https://t.me/USDDBOT?startgroup=true"),
+                InlineKeyboardButton("♡اضف البوت الى مجموعتك♡", url=f"https://t.me/ZEYADZAGLOLABOT?startgroup=true"),
             ]
          ]
      )
   )
 
-@Client.on_message(command(["لمطور", "طور"]) & filters.group & ~filters.edited)
+@Client.on_message(command(["المطور", "مطور"]) & filters.group & ~filters.edited)
 async def help(client: Client, message: Message):
     await message.reply_photo(
         photo=f"{DEV_PHOTO}",
@@ -130,7 +130,7 @@ async def help(client: Client, message: Message):
         reply_markup=InlineKeyboardMarkup(
          [
             [
-                InlineKeyboardButton("𓌹●↯‌𝑫𝑨𝑫 𝑺𝑯𝑨𝑫𝑶𝑾↯●𓌺", url=f"https://t.me/S_V_I_P"),
+                InlineKeyboardButton("⌯ 𓆩✘𝒁𝑬𝒁𝑶 𖤐 ™𝑲𝑨𝑹𝑴𝑶𝒁✘𓆪 ⌯", url=f"https://t.me/ZEYADZAGLOL"),
             ],
             [
                 InlineKeyboardButton(
@@ -210,7 +210,7 @@ async def new_chat(c: Client, m: Message):
                         [
                             InlineKeyboardButton(
                         "♡اضـف الـبـوت لـمـجـمـوعـتـك♡",
-                        url=f'https://t.me/USDDBOT?startgroup=true'),
+                        url=f'https://t.me/ZEYADZAGLOLABOT?startgroup=true'),
                         ],
                     ]
                 )
