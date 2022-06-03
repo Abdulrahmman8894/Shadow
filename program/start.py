@@ -112,7 +112,7 @@ async def start(client: Client, message: Message):
             ],
             [
                 InlineKeyboardButton(
-                    "اذكار المسلم🖤", url=f"https://t.me/AzkarMusIim1"
+                    "𝑺𝑶𝑼𝑹𝑪𝑬 𝒁𝑬𝒁𝑶", url=f"https://t.me/zezoteams"
                 ),
             ],
             [
