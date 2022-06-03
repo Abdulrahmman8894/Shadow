@@ -1,7 +1,7 @@
 {
     "name": "Video x Music Stream Bot",
     "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by PyTgCalls and Pyrogram",
-    "logo": "https://telegra.ph/file/18b88af791e36bf3c4259.jpg",
+    "logo": "https://telegra.ph/file/d665b0e88940c57bc660c.jpg",
     "keywords": [
         "py-tgcalls",
         "telegram bot",
@@ -11,9 +11,9 @@
         "mongodb",
         "pyrogram"
     ],
-    "website": "https://t.me/FA9SH",
-    "repository": "https://github.com/USDDBOOT/Shadow",
-    "success_url": "https://t.me/KB_Shadow",
+    "website": "https://t.me/AzkarMusIim1",
+    "repository": "https://github.com/Abdulrahmman8894/Shadow",
+    "success_url": "https://t.me/BAR_ZEZO",
     "env": {
         "API_ID": {
             "description": "قم بوضع الايبي ايدي هنا",
@@ -30,12 +30,12 @@
         "BOT_USERNAME": {
             "description": "قم بوضع يوزر بوتك بدون علامة @",
             "required": true,
-            "value": "USDDBOT"
+            "value": "ZEYADZAGLOLABOT"
         },
         "ASSISTANT_NAME": {
             "description": "قم بوضع يوزر الحساب المساعد بدون علامة @",
             "required": true,
-            "value": "SHADOW_MUSIC0"
+            "value": "AIex_7"
         },
         "SESSION_NAME": {
             "description": "قم بوضع كود تيرمكس هنا",
@@ -44,22 +44,22 @@
         "SUDO_USERS": {
             "description": "قم بوضع ايدي المطور الاساسي",
             "required": true,
-            "value": "1970797144"
+            "value": "5154162181"
         },
         "GROUP_SUPPORT": {
             "description": "ضع هنا يوزر جروبك بدون علامة @",
             "required": true,
-            "value": "S150D"
+            "value": "BAR_ZEZO"
         },
         "UPDATES_CHANNEL": {
             "description": "ضع هنا يوزر قناتك بدون علامة @",
             "required": true,
-            "value": "FA9SH"
+            "value": "AzkarMusIim1"
         },
         "OWNER_NAME": {
             "description": "ضع هنا يوزر المطور بدون علامة @",
             "required": true,
-            "value": "KB_Shadow"
+            "value": "ZEYADZAGLOL"
         },
         "BOT_PHOTO": {
             "description": "ضع لينك صورة البوت من هنا @T_ELEGRAPH00BOT",
@@ -76,7 +76,7 @@
         "ALIVE_NAME": {
             "description": "ضع هنا اسم الحساب المساعد",
             "required": true,
-            "value": "𝑺𝑯𝑨𝑫𝑶𝑾 𝑴𝑼𝑺𝑰𝑪"
+            "value": "𝑴𝑼𝑺𝑰𝑪"
         },
         "MONGODB_URL": {
             "description": "لا تغيره!",
@@ -86,7 +86,7 @@
         "UPSTREAM_REPO": {
             "description": "اتركه كما هوا",
             "required": true,
-            "value": "https://github.com/USDDBOOT/Shadow"
+            "value": "https://github.com/Abdulrahmman8894/Shadow"
         }
     },
     "addons": [],
