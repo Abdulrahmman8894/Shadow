@@ -12,12 +12,12 @@ def stream_markup(user_id):
   buttons = [
     [
       InlineKeyboardButton(text="• الـقـائـمـه♪", callback_data=f'cbmenu | {user_id}'),
-      InlineKeyboardButton(text="• الـتـحـديـثـات♪", url=f'https://t.me/FA9SH'),
+      InlineKeyboardButton(text="• الـتـحـديـثـات♪", url=f'https://t.me/zezoteams'),
     ],
     [
     InlineKeyboardButton(
                         "♡اضـف الـبـوت لـمـجـمـوعـتـك♡",
-                        url=f'https://t.me/USDDBOT?startgroup=true'),
+                        url=f'https://t.me/ZEYADZAGLOLABOT?startgroup=true'),
     ],
   ]
   return buttons
