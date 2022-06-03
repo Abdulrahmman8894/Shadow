@@ -30,7 +30,7 @@ async def cbstart(_, query: CallbackQuery):
             [
                 [
                     InlineKeyboardButton(
-                        "• نـصـب بـوتك مـن هـنا •", url="https://t.me/FA9SH/2270",
+                        "• نـصـب بـوتك مـن هـنا •", url="https://t.me/zezoteams",
                     )
                 ],
                 [InlineKeyboardButton("", callback_data="cbhowtouse")],
@@ -43,13 +43,13 @@ async def cbstart(_, query: CallbackQuery):
                         "👥 جروب الدعم", url=f"https://t.me/{GROUP_SUPPORT}"
                     ),
                     InlineKeyboardButton(
-                        "📣 قناة البوت", url=f"https://t.me/FA9SH"
+                        "📣 قناة البوت", url=f"https://t.me/zezoteams"
                     ),
                 ],
                 [
                     InlineKeyboardButton(
                         "ضيـف البـوت لمجمـوعتـك ✅",
-                        url=f"https://t.me/USDDBOT?startgroup=true"
+                        url=f"https://t.me/ZEYADZAGLOLABOT?startgroup=true"
                     )
                 ],
             ]
