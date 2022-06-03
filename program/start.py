@@ -103,8 +103,8 @@ async def start_(client: Client, message: Message):
 @Client.on_message(command(["برمج السورس", f"ؤمن", f"ورس", f"لسورس", f"ادو", f"اضو"]) & filters.group & ~filters.edited)
 async def start(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/d665b0e88940c57bc660c.jpg",
-        caption=f"""ᴘʀᴏɢʀᴀᴍᴍᴇʀ [ᴢᴇᴢᴏ](https://t.me/ZEYADZAGLOL) 𖡼\nᴛᴏ ᴄᴏᴍᴍụɴɪᴄᴀᴛᴇ ᴛᴏɢᴇᴛʜᴇʀ 𖡼\nғᴏʟʟᴏᴡ ᴛʜᴇ ʙụᴛᴛᴏɴѕ ʟᴏᴡᴇʀ 𖡼""",
+        photo=f"https://telegra.ph/file/4e6cfed053220cb785846.jpg",
+        caption=f"""ᴘʀᴏɢʀᴀᴍᴍᴇʀ [𝒁𝑬𝒁𝑶_𝑲𝑨𝑹𝑴𝑶𝒁](https://t.me/ZEYADZAGLOL) 𖡼\nᴛᴏ ᴄᴏᴍᴍụɴɪᴄᴀᴛᴇ ᴛᴏɢᴇᴛʜᴇʀ 𖡼\nғᴏʟʟᴏᴡ ᴛʜᴇ ʙụᴛᴛᴏɴѕ ʟᴏᴡᴇʀ 𖡼""",
         reply_markup=InlineKeyboardMarkup(
          [
             [
