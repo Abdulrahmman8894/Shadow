@@ -35,7 +35,7 @@ ydl_opts = {
 }
 
 
-@Client.on_message(command(["حمل", f"تحميل", "song"]) & ~filters.edited)
+@Client.on_message(command(["تنزيل", f"تحميل", "song"]) & ~filters.edited)
 def song(_, message):
     query = " ".join(message.command[1:])
     m = message.reply("🔎 جاري البحث انتظر قليلآ...")
