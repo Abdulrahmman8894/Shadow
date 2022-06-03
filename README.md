@@ -86,10 +86,10 @@
 | `/rmd` | clean all downloaded files |
 
 ## التنصيب 💜
+#الطريقة السهلة لاستضافة هذا الروبوت ، والنشر في Heroku ، وتغيير بلد التطبيق إلى أوروبا (سيساعد ذلك في جعل الروبوت مستقرًا).
 
-The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Abdulrahmman8894/ZEZO_MUSIC1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Abdulrahmman8894/Shadow)
 
 ## نشر VPS 📡
 
