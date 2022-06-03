@@ -54,7 +54,7 @@ async def leave_all(client, message):
     left = 0
     failed = 0
     
-    msg = await message.reply("🔄 Userbot leaving all Group !")
+    msg = await message.reply("🔄 غادر الحساب المساعد !")
     async for dialog in user.iter_dialogs():
         try:
             await user.leave_chat(dialog.chat.id)
